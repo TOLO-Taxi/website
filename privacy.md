@@ -270,5 +270,5 @@ when they are posted on this page.
 **Contact Us**
 If you have any questions about this Privacy Policy, please contact us:
 
-- By email: contact@hellotaxi.com
+- By email: tolotaxi.et@gmail.com
 - By visiting this page on our website: https://tolotaxi.com/faq
