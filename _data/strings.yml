@@ -1,0 +1,15 @@
+app:
+  description1: Why use the TOLO app?
+  description2: The Driver app
+  featured: Partners
+
+footer:
+  copyright: Ⓒ BLN eFreight Solutions PLC
+  links:
+    - title: Home
+      url: /
+    - title: Contact
+      url: #
+#      target: _blank
+    - title: Privacy
+      url: /privacy

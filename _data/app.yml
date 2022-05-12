@@ -1,0 +1,23 @@
+name1: TOLO Customer
+description1: Request a ride, hop in, and relax.
+full_description1: 'A more complete description of the mobile app<br>
+<br>With a lot of features:
+<br>- Feature 1
+<br>- Feature 2
+<br>- Feature 3'
+android1: https://telegra.ph/Replace-this-link-07-23
+iOS1: https://telegra.ph/Replace-this-link-07-23
+
+name2: TOLO Driver
+description2: Make money when you want
+full_description2: 'A more complete description of the mobile app<br>
+<br>With a lot of features:
+<br>- Feature 1
+<br>- Feature 2
+<br>- Feature 3'
+android2: https://telegra.ph/Replace-this-link-07-23
+iOS2: https://telegra.ph/Replace-this-link-07-23
+
+companies:
+  - url: https://abaybank.com.et/
+    image: abay-bank.png

@@ -1,0 +1,11 @@
+{
+  "name": "Tolo",
+  "short_name": "Tolo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Rides and beyond\n",
+  "scope": "/",
+  "theme_color": "#fd7e14",
+  "background_color": "#fd7e14"
+}
