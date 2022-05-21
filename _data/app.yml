@@ -5,7 +5,7 @@ full_description1: 'A more complete description of the mobile app<br>
 <br>- Feature 1
 <br>- Feature 2
 <br>- Feature 3'
-android1: #
+android1: https://play.google.com/store/apps/details?id=app.tolo.rider
 iOS1: #
 
 name2: TOLO Driver
@@ -15,7 +15,7 @@ full_description2: 'A more complete description of the mobile app<br>
 <br>- Feature 1
 <br>- Feature 2
 <br>- Feature 3'
-android2: #
+android2: https://play.google.com/store/apps/details?id=app.tolo.driver
 iOS2: #
 
 companies:
