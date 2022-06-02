@@ -8,7 +8,7 @@ $secondary-color: #8751FE;
 $text-color: #222;
 $link-color: $primary-color;
 $background-color: #F6F8FA;
-$grey-color: #65638f;
+$grey-color: #fd7e14;
 $light-grey-color: #F6F8FA;
 
 :root {
@@ -208,7 +208,7 @@ h1, h2 {
 
   &__screenshots-list {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+    grid-template-columns: 40px 40px;
     grid-column-gap: 20px;
     padding: 30px 0;
 

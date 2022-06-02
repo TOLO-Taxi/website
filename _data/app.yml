@@ -1,20 +1,28 @@
 name1: TOLO Customer
 description1: Request a ride, hop in, and relax.
-full_description1: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+full_description1: 'Safest and easiest way to ride, available in all cities across Ethiopia<br>
+<br>With a lot of features:<br>
+<br>- <em>Connect millions of customers with <strong>bajaj</strong>,  <strong>taxi</strong>,  <strong>van</strong>,  <strong>minibus</strong>, and  <strong>mini truck</strong> drivers</em>
+<br>- <em>Lets you monitor the variations with the estimated fare in case of wrong route and delayed trip</em>
+<br>- <em><strong>Earn bonus</strong> in each trip that you can use it later to make a free ride.</em>
+<br>- <em><strong>Cashless payment</strong> option.</em>
+<br>- <em>Add balance using your <strong>debit/credit cards</strong> or by <strong>depositing cash</strong> in nearby partner bank/agents.</em>
+<br>- <em>Use your credits anytime to fully/partially pay for your trip, transfer to a friend, or tip the driver.</em>
+<br>- <em>Request any type of vehicle for <strong>ride and logistics</strong> services.</em>
+<br>- <em>Get bonus sharing your <strong>referral code</strong> to your connections.</em>
+'
 android1: https://play.google.com/store/apps/details?id=app.tolo.rider
 iOS1: #
 
 name2: TOLO Driver
 description2: Make money when you want
-full_description2: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+full_description2: 'Reach millions of passengers and make a difference, one ride at a time.<br>
+<br>Which car you own? If it meets our standards, just register quickly and tell us the license you have to start making more money:
+<br><br>- <strong>Nearest order assignment: </strong>save your time and fuel as our app assigns the nearest order
+<br>- <strong>Cashless payments: </strong>instantly cash-out your earnings to your bank account or from our agents.
+<br>- <strong>24/7 support: </strong>support and safety guidelines whenever you need it
+<br>- <strong>Earning insights: </strong>helps you maximize earnings and plan your finances better.
+<br>'
 android2: https://play.google.com/store/apps/details?id=app.tolo.driver
 iOS2: #
 
