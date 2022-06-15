@@ -8,8 +8,10 @@ footer:
   links:
     - title: Home
       url: /
+    - title: Integration
+      url: /integration
     - title: Contact
-      url: #
-#      target: _blank
+      url: /contact
     - title: Privacy
       url: /privacy
+      #      target: _blank
