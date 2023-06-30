@@ -263,7 +263,6 @@ Our product give you the ability to delete certain information about you from wi
 ## Request that we stop using your information
 In some cases, you may ask us to stop accessing, storing, using and otherwise processing your information where you believe we don’t have the appropriate rights to do so. For example, if you believe a account was created for you without your permission or you are no longer an active user, you can request that we delete your account as provided in this policy. Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time. You can also opt-out of our use of your information for marketing purposes by contacting us, as provided below. When you make such requests, we may need time to investigate and facilitate your request. If there is delay or dispute as to whether we have the right to continue using your information, we will restrict any further use of your information until the request is honored or the dispute is resolved, provided your administrator does not object (where applicable). If you object to information about you being shared with a third-party app, please disable the app or contact your administrator to do so.
 
-
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy
